@@ -1,4 +1,3 @@
-
 const dataMahasiswa = [
   { nama: "Andi", nilai: 80 },
   { nama: "Budi", nilai: 65 },

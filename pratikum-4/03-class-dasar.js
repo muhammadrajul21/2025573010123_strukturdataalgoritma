@@ -68,8 +68,7 @@ l.jariJari = 10;
 console.log('Setelah diubah - Luas:', l.luas);
 
 
-
-//latihan 
+//latihan
 
 
 class BankAccount {
